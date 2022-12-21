@@ -320,10 +320,10 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **OLUSHOLA MICHAEL**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@wismcorp] (https://github.com/wismcorp)
 
-👤 **MOSURO KANYINSOLA OLUBUNMI**
+👤 **DANIEL ONYEKA DANIEL**
 
-- GitHub: [@](https://github.com)
+- GitHub: [@odecey](https://github.com/odecey)
